@@ -1,6 +1,6 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Liu Hainan
+image: images/lhn_test.jpg
 role: principal-investigator
 affiliation: University of Colorado
 aliases:
